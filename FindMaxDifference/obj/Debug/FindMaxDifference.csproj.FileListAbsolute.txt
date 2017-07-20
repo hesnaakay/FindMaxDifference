@@ -1,0 +1,6 @@
+c:\users\hesna\documents\visual studio 2013\Projects\FindMaxDifference\FindMaxDifference\bin\Debug\FindMaxDifference.exe.config
+c:\users\hesna\documents\visual studio 2013\Projects\FindMaxDifference\FindMaxDifference\bin\Debug\FindMaxDifference.exe
+c:\users\hesna\documents\visual studio 2013\Projects\FindMaxDifference\FindMaxDifference\bin\Debug\FindMaxDifference.pdb
+c:\users\hesna\documents\visual studio 2013\Projects\FindMaxDifference\FindMaxDifference\obj\Debug\FindMaxDifference.csprojResolveAssemblyReference.cache
+c:\users\hesna\documents\visual studio 2013\Projects\FindMaxDifference\FindMaxDifference\obj\Debug\FindMaxDifference.exe
+c:\users\hesna\documents\visual studio 2013\Projects\FindMaxDifference\FindMaxDifference\obj\Debug\FindMaxDifference.pdb
